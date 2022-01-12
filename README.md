@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vineet3996
+- 👀 I’m interested in building mobile apps and games
+- 🌱 I’m currently learning nodejs for app development
+- 💞️ I’m looking to collaborate on any opensorce projects involving C++ or java
